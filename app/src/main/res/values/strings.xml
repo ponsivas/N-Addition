@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Addition</string>
+    <string name="AP">Addition Program</string>
+    <string name="CREATOR">App by Dr. P. Sivaram</string>
+    <string name="CL">CLEAR</string>
+    <string name="AD">ADDITION</string>
+    <string name="RE">RESULT</string>
+    <string name="todo">TODO</string>
+</resources>
